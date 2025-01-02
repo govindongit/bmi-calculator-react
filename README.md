@@ -1,5 +1,4 @@
 **BMI Calculator Using React - Basic**
-![image](https://github.com/user-attachments/assets/3332205c-ea85-4055-bd61-6063833cfa53)
 
 > Summary of Key Concepts:
 
@@ -8,6 +7,7 @@
 - **Conditional rendering:** Displaying the BMI result only after it has been calculated.
 - **Form validation:** Checking if the user has entered both weight and height before calculating the BMI.
 
+![image](https://github.com/user-attachments/assets/3332205c-ea85-4055-bd61-6063833cfa53)
 * GFG Link: https://www.geeksforgeeks.org/bmi-calculator-using-react/
 
 # Getting Started with Create React App
