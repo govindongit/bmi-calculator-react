@@ -1,4 +1,5 @@
 **BMI Calculator Using React - Basic**
+![image](https://github.com/user-attachments/assets/3332205c-ea85-4055-bd61-6063833cfa53)
 
 > Summary of Key Concepts:
 
